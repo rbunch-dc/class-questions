@@ -1,0 +1,28 @@
+#question-wrapper{
+    width: 600px;
+    height: 430px;
+    text-align: center;
+    background-color: #cdcbd6;
+    margin: auto;
+    border-radius: 15px;
+}
+
+h1{
+	padding: 20% 10% 0;
+}
+
+#ask{
+	width: 20%;
+	margin: 20px auto;
+	text-align: center;
+
+}
+
+#ask button{
+	padding: 30px;
+	background-color: #CD336A;
+}
+
+.student-name{
+	color: #CD336A;
+}
